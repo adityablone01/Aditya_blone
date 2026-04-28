@@ -1,7 +1,8 @@
 # Hi I'm Aditya Tamang
 
-🖥️ A Computer Application Student
-
+💻 MCA student | Computer Applications graduate.<br>
+🚀 Fresher passionate about tech & continuous learning.<br>
+🛠️ Exploring programming, development & real-world.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-tamang-10340527a?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityablone111@gmail.com) 
